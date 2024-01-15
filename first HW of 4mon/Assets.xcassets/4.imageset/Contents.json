@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "png-clipart-computer-icons-checkbox-check-mark-button-angle-text.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
